@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TestBed">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="TestBed::StrategyType">
+        <TypeIdentifier>
+          <NewMemberFileName>StrategyPattern.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAACAACAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StrategyPattern.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Strategy">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAQAAACAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>StrategyPattern.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeftStrategy">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StrategyPattern.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RightStrategy">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StrategyPattern.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CenterStrategy">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StrategyPattern.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
