@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{12C4826C-AED9-4970-A673-30D73AB4F815}</ProjectGuid>
+    <ProjectGuid>{28C7B300-B194-4FD5-B773-C4DDB4A4F093}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>DesignPattern</RootNamespace>
+    <RootNamespace>AbstractFactoryPattern2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -154,7 +154,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DesignPattern.cpp" />
+    <ClCompile Include="AbstractFactoryPattern.2.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

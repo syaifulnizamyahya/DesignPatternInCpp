@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{778AF797-34A6-464D-8F33-CD97A680F8A0}</ProjectGuid>
+    <ProjectGuid>{A03D1ED1-41C9-47D3-9797-677204ED715F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>ObserverPattern1</RootNamespace>
+    <RootNamespace>AbstractFactoryPattern1After</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -154,7 +154,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ObserverPattern.1.cpp" />
+    <ClCompile Include="AbstractFactoryPattern.1.After.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
